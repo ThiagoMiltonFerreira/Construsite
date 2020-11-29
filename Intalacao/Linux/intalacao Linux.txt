@@ -1,0 +1,12 @@
+
+Dentro do terminal Linux siga os passos abaixo:
+--- Instalar GitHub ----
+sudo apt-get install github
+
+
+---  Instalar composer ----
+sudo apt-get install composer
+
+
+
+

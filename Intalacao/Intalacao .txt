@@ -1,0 +1,32 @@
+Para configuraçao do projeto em seu ambiente de desenvolvimento, sera nescessario  ter instalado em seu computador
+o Mysql, composer e gitHub (caso seja feito clone em meu repositorio).
+
+
+--- Instalaçao Windowns ---
+Os instaladores do composer e git estao dentro
+da pasta Windowns
+
+
+---Instalaçao dos programas Linux---
+Dentro do terminal Linux siga os passos abaixo:
+--- Instalar GitHub ----
+sudo apt-get install github
+
+
+---  Instalar composer ----
+sudo apt-get install composer
+
+
+
+Apos clone ou dowmload do projeto e siga os passos abaixo:
+
+------ Criar o banco de dados ------
+1- Execute o arquivo criacaoBancoDedados.sql em seu SGBD;
+
+Pelo CMD ou Terminal acesse a pasta do projeto e execute o seguinte codigo para instalar as dependencias do Laravel
+2- composer install
+
+Para iniciar o servidor php execute o passo abaixo.
+Ainda dentro da pasta do projeto no terminal digite o codigo abaixo:
+3 - php artisan serve 
+4 - Endereço local para acesso ao teste http://127.0.0.1:800
