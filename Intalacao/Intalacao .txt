@@ -30,4 +30,4 @@ Pelo CMD ou Terminal acesse a pasta do projeto e execute o seguinte codigo para 
 Para iniciar o servidor php execute o passo abaixo.
 Ainda dentro da pasta do projeto no terminal digite o codigo abaixo:
 3 - php artisan serve 
-4 - Endereço local para acesso ao teste http://127.0.0.1:800
+4 - Endereço local para acesso ao teste http://127.0.0.1:8000
