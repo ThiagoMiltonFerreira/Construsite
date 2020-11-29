@@ -1,6 +1,7 @@
 Para configuraçao do projeto em seu ambiente de desenvolvimento, sera nescessario  ter instalado em seu computador
 o Mysql, composer e gitHub (caso seja feito clone em meu repositorio).
 
+Repositorio gitHub: https://github.com/ThiagoMiltonFerreira/Construsite
 
 --- Instalaçao Windowns ---
 Os instaladores do composer e git estao dentro
